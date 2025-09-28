@@ -1,8 +1,11 @@
-![LabVIEW](https://img.shields.io/badge/LabVIEW-FFA500?style=for-the-badge&logo=labview&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-2D2D2D?style=for-the-badge&logo=code&logoColor=white)
-
 # 🚀 LabVIEW Workshops
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LabVIEW-FFA500?style=for-the-badge&logo=labview&logoColor=white" alt="LabVIEW"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino"/>
+  <img src="https://img.shields.io/badge/Proteus-2D2D2D?style=for-the-badge&logo=code&logoColor=white" alt="Proteus"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
 
 This repository contains a series of workshops I completed to learn **LabVIEW** and its integration with **Arduino** and **Proteus**.
 They cover everything from the basics to advanced applications, with a focus on **dataflow programming, reusability, and hardware simulation**.
